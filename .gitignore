@@ -4,6 +4,10 @@ npm-debug.log*
 .pnpm-debug.log*
 dist/
 build/
+*.tsbuildinfo
+
+# Coverage
+coverage/
 
 # Rust
 target/
